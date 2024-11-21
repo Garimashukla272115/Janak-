@@ -1,3 +1,5 @@
+![WhatsApp Image 2024-11-21 at 10 56 31 PM (1)](https://github.com/user-attachments/assets/0dd05fce-5860-4950-b09d-66de8bba6fe5)
+
 Janak: Nurturing Holistic Development
 Janak is an application designed to empower parents to ensure holistic development for their children across cognitive, psychomotor, and affective domains. By offering structured, stage-wise information and actionable goals, the app bridges the gap in access to evidence-based parenting practices tailored to different growth stages.
 
@@ -52,7 +54,7 @@ This holistic approach empowers parents to nurture their child’s potential at 
 
 Here are few insights from our app
 
-![WhatsApp Image 2024-11-21 at 10 56 31 PM (1)](https://github.com/user-attachments/assets/0dd05fce-5860-4950-b09d-66de8bba6fe5)
+
 ![WhatsApp Image 2024-11-21 at 10 59 41 PM](https://github.com/user-attachments/assets/27e61935-76fc-4204-b295-3abeaa32306f)
 ![WhatsApp Image 2024-11-21 at 10 56 28 PM (1)](https://github.com/user-attachments/assets/4ce9cca5-1cdb-4fb7-8ac7-a5f592a3a8e4)
 ![WhatsApp Image 2024-11-21 at 10 56 28 PM (2)](https://github.com/user-attachments/assets/a8c01638-900f-4f1b-8db0-92cadb7845cf)
